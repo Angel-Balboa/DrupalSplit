@@ -1,0 +1,24 @@
+uuid: 3044cf45-4bb0-474c-b14f-136ab0bb2dc6
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.agreements
+  module:
+    - text
+id: node.agreements.body
+field_name: body
+entity_type: node
+bundle: agreements
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+  required_summary: false
+  allowed_formats: {  }
+field_type: text_with_summary
