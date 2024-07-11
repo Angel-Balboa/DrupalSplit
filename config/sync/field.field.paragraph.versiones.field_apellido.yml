@@ -1,0 +1,19 @@
+uuid: 78d9d141-3caf-4db8-9d84-ca18a5c410d2
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_apellido
+    - paragraphs.paragraphs_type.versiones
+id: paragraph.versiones.field_apellido
+field_name: field_apellido
+entity_type: paragraph
+bundle: versiones
+label: apellido
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

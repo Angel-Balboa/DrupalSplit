@@ -1,0 +1,10 @@
+uuid: d6284c4b-4265-4833-b6b2-17541f7da847
+langcode: es
+status: true
+dependencies: {  }
+id: versiones
+label: Versiones
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }
